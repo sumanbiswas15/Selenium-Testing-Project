@@ -1,0 +1,16 @@
+javac -cp "C:\Users\manto\OneDrive\Desktop\SE\jar Files\selenium-java-4.31.0\*;" co\edureka\selenium\demo\Demo.java
+java -cp ".;C:\Users\manto\Downloads\selenium-java-4.31.0\*" co.edureka.selenium.demo.Demo  
+
+
+
+C:\Users\91843\OneDrive\Desktop\SE\jar Files\selenium-java-4.31.0
+
+For compile the file:
+
+javac -cp "C:\Users\91843\OneDrive\Desktop\SE\jar Files\selenium-java-4.31.0\*;" co\edureka\selenium\demo\Demo.java
+
+For run the file:
+java -cp ".;C:\Users\91843\OneDrive\Desktop\SE\jar Files\selenium-java-4.31.0\*" co.edureka.selenium.demo.Demo  
+
+
+"C:\Users\91843\Downloads\Firefox Installer.exe"
